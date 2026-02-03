@@ -6,6 +6,9 @@
 [![CI Build Status](https://github.com/sarrchri/fwupd-appimage/actions/workflows/appimage.yml/badge.svg)](https://github.com/sarrchri/fwupd-appimage/releases/latest)
 [![Latest Stable Release](https://img.shields.io/github/v/release/sarrchri/fwupd-appimage)](https://github.com/sarrchri/fwupd-appimage/releases/latest)
 
+### The scripts in this repo are licensed as MIT (by PkgForge).
+### The package 'fwupd' itself is licensed as LGPL-2.1, copy of their license is in "LICENSE_fwupd".
+
 <p align="center">
   <img src="https://github.com/pkgforge-dev.png" width="128" />
 </p>
