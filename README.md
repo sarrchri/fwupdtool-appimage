@@ -1,10 +1,10 @@
 <div align="center">
 
-# fwupd AppImage 🐧
+# fwupdtool AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/sarrchri/fwupd-appimage/total?logo=github&label=GitHub%20Downloads)](https://github.com/sarrchri/fwupd-appimage/releases/latest)
-[![CI Build Status](https://github.com/sarrchri/fwupd-appimage/actions/workflows/appimage.yml/badge.svg)](https://github.com/sarrchri/fwupd-appimage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/sarrchri/fwupd-appimage)](https://github.com/sarrchri/fwupd-appimage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/sarrchri/fwupdtool-appimage/total?logo=github&label=GitHub%20Downloads)](https://github.com/sarrchri/fwupdtool-appimage/releases/latest)
+[![CI Build Status](https://github.com/sarrchri/fwupdtool-appimage/actions/workflows/appimage.yml/badge.svg)](https://github.com/sarrchri/fwupdtool-appimage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/sarrchri/fwupdtool-appimage)](https://github.com/sarrchri/fwupdtool-appimage/releases/latest)
 
 ### The scripts in this repo are licensed as MIT (by PkgForge).
 ### The package 'fwupd' itself is licensed as LGPL-2.1, copy of their license is in "LICENSE_fwupd".
